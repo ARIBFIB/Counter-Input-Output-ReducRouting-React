@@ -1,5 +1,6 @@
 # Counter-Input-Output-ReduxRouting-React
 When the user increment or decrement the value it will update in the input field and also update in output filed and if user update value in input it will also update in all sections.
+# Note Full code is available in Master Branch
 # Routing - Redux - Simple Example
 # I have update the counter from 0 to 21
 ![image](https://github.com/user-attachments/assets/6c61e6ae-6ffc-4dc0-a74c-9d9d090ae56d)
